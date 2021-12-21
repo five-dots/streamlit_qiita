@@ -1,0 +1,3 @@
+#+STARTUP: folded indent
+
+* streamlit_qiita
