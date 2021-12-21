@@ -1,3 +1,7 @@
 #+STARTUP: folded indent
 
 * streamlit_qiita
+
+- Qiita のアドベントカレンダー "Location Tech Advent Calendar 2021 by LBMA Japan" の記事執筆で利用したリポジトリです。
+- [[https://qiita.com/five-dots/private/871605e6aa41b5f516e5][Qiita]]
+- [[https://share.streamlit.io/five-dots/streamlit_qiita/demo.py][Streamlit Cloud]]
